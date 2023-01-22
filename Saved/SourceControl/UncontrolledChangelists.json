@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Maps/Minimal_Default.umap"
 			]
 		}
 	]
