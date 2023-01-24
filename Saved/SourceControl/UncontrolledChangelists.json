@@ -7,7 +7,9 @@
 			"files": [
 				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
-				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/MyStudeyProject/Content/StarterContent/Maps/PostProcessExmple.umap"
 			]
 		}
 	]
